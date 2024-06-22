@@ -4,9 +4,9 @@ Welcome to my portfolio! This repository contains the source code for my persona
 
 ## Overview
 
-- **Website URL:** (https://piplaniritik.github.io/my_portfolio/)
-- **Author:** Ritik Piplani
-- **Contact:** ritikpiplani439@gmail.com
+- **Website URL:** (https://yashika14-12.github.io/my_portfolio/)
+- **Author:** Yashika Sharma
+- **Contact:**  yashika14122001@gmail.com
 
 ## Features
 
